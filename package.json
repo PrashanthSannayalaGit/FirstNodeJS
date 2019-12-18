@@ -1,0 +1,19 @@
+{
+  "name": "myfrirstnodepackage",
+  "version": "1.0.0",
+  "description": "my first node package",
+  "main": "testAddNumbers.js",
+  "scripts": {
+    "test": "echo \"Testing add numbers\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrashanthSannayalaGit/FirstNodeJS.git"
+  },
+  "author": "Prashanth Sannayala <prashanth.sannayala@ba.com> (http://localhost:3000)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrashanthSannayalaGit/FirstNodeJS/issues"
+  },
+  "homepage": "https://github.com/PrashanthSannayalaGit/FirstNodeJS#readme"
+}
